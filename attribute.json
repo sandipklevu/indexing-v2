@@ -1,0 +1,11 @@
+{
+    "label": {
+        "default": "Product Badge",
+        "en-GB": "product badge",
+        "fi-FI": "Tuotemerkki"
+    },
+    "searchable": true,
+    "filterable": true,
+    "returnable": false,
+    "datatype": "STRING"
+}
